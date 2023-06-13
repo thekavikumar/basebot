@@ -2,6 +2,7 @@ import Hero from "./components/hero.jsx";
 import Demo from "./components/demo.jsx";
 import "./app.css";
 
+//demo
 const App = () => {
   return (
     <>
