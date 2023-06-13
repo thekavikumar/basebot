@@ -2,7 +2,8 @@ import Hero from "./components/hero.jsx";
 import Demo from "./components/demo.jsx";
 import "./app.css";
 
-//demo
+//demo.js
+
 const App = () => {
   return (
     <>
