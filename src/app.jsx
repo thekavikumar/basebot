@@ -1,11 +1,10 @@
 import Hero from "./components/hero.jsx";
 import Demo from "./components/demo.jsx";
-
-import "./App.css";
+import "./app.css";
 
 const App = () => {
     return (
-        <main>
+        <>
             <div className='main'>
                 <div className='gradient' />
             </div>
@@ -14,7 +13,7 @@ const App = () => {
                 <Hero />
                 <Demo />
             </div>
-        </main>
+        </>
     );
 };
 
